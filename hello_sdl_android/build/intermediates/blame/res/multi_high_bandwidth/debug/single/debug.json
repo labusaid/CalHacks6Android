@@ -8,28 +8,28 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-v21_abc_dialog_material_background.xml.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/layout/abc_dialog_title_material.xml"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/layout_abc_dialog_title_material.xml.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/layout/abc_dialog_title_material.xml"
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-v21_abc_btn_colored_material.xml.flat",
@@ -44,12 +44,12 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -84,12 +84,12 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/layout_abc_action_menu_layout.xml.flat",
@@ -136,12 +136,12 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/layout_notification_template_custom_big.xml.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/360b35afe600be0e56a00c853d176ae7/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-v21_notification_action_background.xml.flat",
@@ -208,16 +208,16 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable_abc_cab_background_top_material.xml.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -260,12 +260,12 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/color_abc_search_url_text.xml.flat",
@@ -312,12 +312,12 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/color_abc_background_cache_hint_selector_material_light.xml.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/color/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/color/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/layout_select_dialog_multichoice_material.xml.flat",
@@ -340,12 +340,12 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/color_abc_btn_colored_text_material.xml.flat",
@@ -364,12 +364,12 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -412,12 +412,12 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable_abc_edit_text_material.xml.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -504,16 +504,16 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/color-v23_abc_tint_switch_track.xml.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/color-v23_abc_tint_switch_track.xml.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/layout_abc_search_view.xml.flat",
@@ -556,16 +556,16 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable_sdl.png.flat",
-        "source": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/res/drawable/sdl.png"
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable_sdl.png.flat",
+        "source": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/res/drawable/sdl.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -596,16 +596,16 @@
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable_notification_icon_background.xml.flat",
-        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/360b35afe600be0e56a00c853d176ae7/res/drawable/notification_icon_background.xml"
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xxhdpi-v4_sdl_tray_icon.png.flat",
+        "source": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/sdl_android/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/sdl_tray_icon.png"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/color-v23_abc_tint_seek_thumb.xml.flat",
         "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-xxhdpi-v4_sdl_tray_icon.png.flat",
-        "source": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/sdl_android/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/sdl_tray_icon.png"
+        "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/360b35afe600be0e56a00c853d176ae7/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/res/merged/multi_high_bandwidth/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",

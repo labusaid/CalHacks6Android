@@ -8,6 +8,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.Toast;
 
 import com.google.firebase.database.DatabaseReference;
@@ -33,9 +34,10 @@ public class MainActivity extends AppCompatActivity {
 		Button submitButton = findViewById(R.id.submitButton);
 		submitButton.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View v) {
-			// Write a message to the database
-				Log.d(TAG, "test1");
-				newEntry("test4",1,2,3);
+				EditText driverName = (EditText)findViewById(R.id.editText);
+				// Write a message to the database
+				Log.d(TAG, "data written to " + driverName.getText().toString());
+				newEntry(driverName.getText().toString(),2,2,2);
 			}
 		});
 	}
@@ -49,7 +51,6 @@ public class MainActivity extends AppCompatActivity {
 
 		public Driver() {
 			// Default constructor required for calls to DataSnapshot.getValue(User.class)
-			Log.d(TAG, "test2");
 		}
 
 		public Driver(double speed, int distanceDriven, int timeMoving) {
@@ -61,11 +62,9 @@ public class MainActivity extends AppCompatActivity {
 	}
 
 	private void newEntry(String name, double currentSpeed, int distanceDriven, int timeMoving) {
-		Log.d(TAG, "test3");
-
 		Driver driver = new Driver(currentSpeed, distanceDriven, timeMoving);
 
-		ref.child(name).setValue(driver);
+		ref.child(name).child("data2").setValue(driver);
 	}
 
 	@Override
