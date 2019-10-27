@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello Sdl Android</string>
+    <string name="hello_world">Hello SDL!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="enter_name">Enter Name:</string>
+    <string name="name_box">Type Name Here</string>
+    <string name="submit_text">Submit</string>
+
+</resources>

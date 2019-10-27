@@ -1,0 +1,341 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:2:1-68:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/732dee888a5affb5a51381d1a88371f3/AndroidManifest.xml:15:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/AndroidManifest.xml:17:1-22:12
+MERGED from [:sdl_android] /home/labusaid/Documents/sdl_java_suite-4.9.0/android/sdl_android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/aae2db66ab0e39e92265c6e1bade0a61/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/54583b691f52b7874b7eb2575ae229ee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/0c75f67163d1eaf3e853750ffd2bc461/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ade545421fabb5bbe93155eb5bb21c47/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9f4beefdcdd1467adb169b322728ef63/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/80a61aec4e8ceb9050a1f6fdc603e335/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3ce5a7bf710d35d6b268b444c0118d68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e1def269122dfaef8d868eafb3ffb283/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/264483eac913d4c382b78357dc0cc52c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/094197911e4936c3a3b37ca19879e1c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ce1234ca5729e008c0f7bf442c9408b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4efec46efa9d648f59bffe63284a786a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/18db0b806ee270962c5f75641a219f75/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9e4be8f859f902970bc4e6159888bd87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9f850ec90894b5d0517aad4fb0d1f5a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e3a6c12291776b4b21f8be9a644b39af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d3c620dc561626ead589f1fec6126f0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/63af3b4f52cb666eb04d861e52349b91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f80e349f81314fd06cbfefd5c4fad30a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b2d7cc4b8ef262b78c4ad00a99320182/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/360b35afe600be0e56a00c853d176ae7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/88f104604a26062ad19a1b704683c387/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f56af60248d1cde7f8ce7ca49c5b0715/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e3adf3551a6c81702acb1967d2d5a569/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/325ff5df7668cf920dd5826a25604d7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6c738e404db50a7350d7804b86f35677/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1a7ec636c99e93efe8e7b86d3804bc71/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/acaf964f4152c742ae135760422956c7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/446c6f1dc8f6dc69aa76b75ee729848e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5c9900d5f75bafdad2c5a99a576873eb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fdadcb38c2f0bad81fa9fb4823b9b7a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/05897927d46bfbdf9489b2c6e229b442/AndroidManifest.xml:17:1-22:12
+MERGED from [com.smartdevicelink:bson_java_port:1.2.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/bson_java_port-1.2.0.aar/98acda3db0efd991f8cf247229c59769/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.2] /home/labusaid/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/d72eca90e631cdeba637874f9cfb36f4/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:4:11-44
+		INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+		INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:2:1-68:12
+		INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:2:1-68:12
+		INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/732dee888a5affb5a51381d1a88371f3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/732dee888a5affb5a51381d1a88371f3/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/732dee888a5affb5a51381d1a88371f3/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/732dee888a5affb5a51381d1a88371f3/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:10:22-74
+uses-feature#android.hardware.usb.accessory
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:13:19-64
+application
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:15:5-66:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/aae2db66ab0e39e92265c6e1bade0a61/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/aae2db66ab0e39e92265c6e1bade0a61/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/54583b691f52b7874b7eb2575ae229ee/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/54583b691f52b7874b7eb2575ae229ee/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ade545421fabb5bbe93155eb5bb21c47/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ade545421fabb5bbe93155eb5bb21c47/AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9f4beefdcdd1467adb169b322728ef63/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9f4beefdcdd1467adb169b322728ef63/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/80a61aec4e8ceb9050a1f6fdc603e335/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/80a61aec4e8ceb9050a1f6fdc603e335/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/18db0b806ee270962c5f75641a219f75/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/18db0b806ee270962c5f75641a219f75/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/360b35afe600be0e56a00c853d176ae7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/360b35afe600be0e56a00c853d176ae7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/88f104604a26062ad19a1b704683c387/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/88f104604a26062ad19a1b704683c387/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/360b35afe600be0e56a00c853d176ae7/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:18:9-41
+	tools:ignore
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:20:9-33
+	android:icon
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:16:9-36
+	android:theme
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:19:9-40
+activity#com.sdl.hellosdlandroid.MainActivity
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:27:27-74
+activity#com.smartdevicelink.transport.USBAccessoryAttachmentActivity
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:31:9-40:20
+	android:launchMode
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:32:19-49
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:31:19-94
+intent-filter#action:name:android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:33:13-35:29
+action#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:34:17-93
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:34:25-90
+meta-data#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:37:13-39:60
+	android:resource
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:39:17-57
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:38:17-82
+service#com.sdl.hellosdlandroid.SdlService
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:42:9-43:19
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:42:18-67
+service#com.sdl.hellosdlandroid.SdlRouterService
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:44:9-52:19
+	android:process
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:47:13-57
+	android:exported
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:45:13-45
+intent-filter#action:name:com.smartdevicelink.router.service
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:48:13-50:29
+action#com.smartdevicelink.router.service
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:49:25-74
+meta-data#@string/sdl_router_service_version_name
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:51:13-140
+	android:value
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:51:80-137
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:51:24-78
+receiver#com.sdl.hellosdlandroid.SdlReceiver
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:53:9-63:20
+	android:enabled
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:55:13-35
+	android:exported
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:56:13-36
+	tools:ignore
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:57:13-44
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:54:13-40
+intent-filter#action:name:android.bluetooth.device.action.ACL_CONNECTED+action:name:com.smartdevicelink.USB_ACCESSORY_ATTACHED+action:name:sdl.router.startservice
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:58:13-62:29
+action#com.smartdevicelink.USB_ACCESSORY_ATTACHED
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:59:17-84
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:59:25-82
+action#android.bluetooth.device.action.ACL_CONNECTED
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:60:17-88
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:60:25-85
+action#sdl.router.startservice
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:61:17-66
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:61:25-63
+activity#com.smartdevicelink.managers.lockscreen.SDLLockScreenActivity
+ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:64:9-65:51
+	android:launchMode
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:65:19-49
+	android:name
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml:64:19-95
+uses-sdk
+INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/732dee888a5affb5a51381d1a88371f3/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/732dee888a5affb5a51381d1a88371f3/AndroidManifest.xml:18:5-20:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/AndroidManifest.xml:20:5-44
+MERGED from [:sdl_android] /home/labusaid/Documents/sdl_java_suite-4.9.0/android/sdl_android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-11:318
+MERGED from [:sdl_android] /home/labusaid/Documents/sdl_java_suite-4.9.0/android/sdl_android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-11:318
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/aae2db66ab0e39e92265c6e1bade0a61/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/aae2db66ab0e39e92265c6e1bade0a61/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/54583b691f52b7874b7eb2575ae229ee/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/54583b691f52b7874b7eb2575ae229ee/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/0c75f67163d1eaf3e853750ffd2bc461/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/0c75f67163d1eaf3e853750ffd2bc461/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ade545421fabb5bbe93155eb5bb21c47/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ade545421fabb5bbe93155eb5bb21c47/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9f4beefdcdd1467adb169b322728ef63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9f4beefdcdd1467adb169b322728ef63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/80a61aec4e8ceb9050a1f6fdc603e335/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/80a61aec4e8ceb9050a1f6fdc603e335/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3ce5a7bf710d35d6b268b444c0118d68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3ce5a7bf710d35d6b268b444c0118d68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e1def269122dfaef8d868eafb3ffb283/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e1def269122dfaef8d868eafb3ffb283/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/264483eac913d4c382b78357dc0cc52c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/264483eac913d4c382b78357dc0cc52c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/094197911e4936c3a3b37ca19879e1c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/094197911e4936c3a3b37ca19879e1c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ce1234ca5729e008c0f7bf442c9408b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ce1234ca5729e008c0f7bf442c9408b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4efec46efa9d648f59bffe63284a786a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4efec46efa9d648f59bffe63284a786a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/18db0b806ee270962c5f75641a219f75/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/18db0b806ee270962c5f75641a219f75/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:viewpager:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9e4be8f859f902970bc4e6159888bd87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9e4be8f859f902970bc4e6159888bd87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9f850ec90894b5d0517aad4fb0d1f5a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9f850ec90894b5d0517aad4fb0d1f5a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e3a6c12291776b4b21f8be9a644b39af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e3a6c12291776b4b21f8be9a644b39af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d3c620dc561626ead589f1fec6126f0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d3c620dc561626ead589f1fec6126f0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/63af3b4f52cb666eb04d861e52349b91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/63af3b4f52cb666eb04d861e52349b91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f80e349f81314fd06cbfefd5c4fad30a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f80e349f81314fd06cbfefd5c4fad30a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b2d7cc4b8ef262b78c4ad00a99320182/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b2d7cc4b8ef262b78c4ad00a99320182/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/360b35afe600be0e56a00c853d176ae7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/360b35afe600be0e56a00c853d176ae7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/88f104604a26062ad19a1b704683c387/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/88f104604a26062ad19a1b704683c387/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f56af60248d1cde7f8ce7ca49c5b0715/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f56af60248d1cde7f8ce7ca49c5b0715/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e3adf3551a6c81702acb1967d2d5a569/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e3adf3551a6c81702acb1967d2d5a569/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/325ff5df7668cf920dd5826a25604d7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/325ff5df7668cf920dd5826a25604d7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6c738e404db50a7350d7804b86f35677/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6c738e404db50a7350d7804b86f35677/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1a7ec636c99e93efe8e7b86d3804bc71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1a7ec636c99e93efe8e7b86d3804bc71/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/acaf964f4152c742ae135760422956c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/acaf964f4152c742ae135760422956c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/446c6f1dc8f6dc69aa76b75ee729848e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/446c6f1dc8f6dc69aa76b75ee729848e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5c9900d5f75bafdad2c5a99a576873eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5c9900d5f75bafdad2c5a99a576873eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fdadcb38c2f0bad81fa9fb4823b9b7a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fdadcb38c2f0bad81fa9fb4823b9b7a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/05897927d46bfbdf9489b2c6e229b442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/05897927d46bfbdf9489b2c6e229b442/AndroidManifest.xml:20:5-44
+MERGED from [com.smartdevicelink:bson_java_port:1.2.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/bson_java_port-1.2.0.aar/98acda3db0efd991f8cf247229c59769/AndroidManifest.xml:7:5-9:41
+MERGED from [com.smartdevicelink:bson_java_port:1.2.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/bson_java_port-1.2.0.aar/98acda3db0efd991f8cf247229c59769/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] /home/labusaid/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/d72eca90e631cdeba637874f9cfb36f4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/labusaid/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/d72eca90e631cdeba637874f9cfb36f4/AndroidManifest.xml:20:5-43
+INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:sdl_android] /home/labusaid/Documents/sdl_java_suite-4.9.0/android/sdl_android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-315
+	android:targetSdkVersion
+		INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+		INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+		ADDED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+		INJECTED from /home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d066668990dc794951549ccd9bba0003/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/aae2db66ab0e39e92265c6e1bade0a61/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/aae2db66ab0e39e92265c6e1bade0a61/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/aae2db66ab0e39e92265c6e1bade0a61/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/aae2db66ab0e39e92265c6e1bade0a61/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/labusaid/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/aae2db66ab0e39e92265c6e1bade0a61/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ade545421fabb5bbe93155eb5bb21c47/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ade545421fabb5bbe93155eb5bb21c47/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/ade545421fabb5bbe93155eb5bb21c47/AndroidManifest.xml:24:13-58
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9f4beefdcdd1467adb169b322728ef63/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9f4beefdcdd1467adb169b322728ef63/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9f4beefdcdd1467adb169b322728ef63/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9f4beefdcdd1467adb169b322728ef63/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/labusaid/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/9f4beefdcdd1467adb169b322728ef63/AndroidManifest.xml:24:13-83
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/80a61aec4e8ceb9050a1f6fdc603e335/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/18db0b806ee270962c5f75641a219f75/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/18db0b806ee270962c5f75641a219f75/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/80a61aec4e8ceb9050a1f6fdc603e335/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/labusaid/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/80a61aec4e8ceb9050a1f6fdc603e335/AndroidManifest.xml:27:13-51

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/incremental/mergeMulti_high_bandwidthDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bf28d32d97a11ca156368d1b6849e8bb/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/labusaid/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/360b35afe600be0e56a00c853d176ae7/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

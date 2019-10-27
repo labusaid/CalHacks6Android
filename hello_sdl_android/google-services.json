@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966064755351",
+    "firebase_url": "https://calhackssix.firebaseio.com",
+    "project_id": "calhackssix",
+    "storage_bucket": "calhackssix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966064755351:android:99928891902acfb3d68fd2",
+        "android_client_info": {
+          "package_name": "com.sdl.hellosdlandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966064755351-kd2b6naabc1o76f3ulf7gkedj2j77uic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdl.hellosdlandroid",
+            "certificate_hash": "04064379e4cccd9539bff652a6d2a45fbb2c89b7"
+          }
+        },
+        {
+          "client_id": "966064755351-f66qo6dhes3k2hssbd82k97outmjn64p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOAXstqL9xAeGTYWuNcfcoxZhkrXJJyOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966064755351-f66qo6dhes3k2hssbd82k97outmjn64p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

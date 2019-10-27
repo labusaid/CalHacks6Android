@@ -1,0 +1,4 @@
+#Sat Oct 26 18:10:45 PDT 2019
+base.0=/home/labusaid/Documents/sdl_java_suite-4.9.0/android/hello_sdl_android/build/intermediates/dex/multi_high_bandwidthDebug/mergeDexMulti_high_bandwidthDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
