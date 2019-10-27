@@ -37,8 +37,7 @@
             android:layout_height="82dp"
             android:layout_below="@+id/editText"
             android:layout_marginTop="10dp"
-            android:text="@string/submit_text"
-            android:onClick="sendName" />
+            android:text="@string/submit_text" />
 
     </LinearLayout>
 
